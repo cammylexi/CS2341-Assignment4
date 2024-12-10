@@ -1,7 +1,10 @@
 # CS2341-Assignment4
+### Camryn McPhaul- 48876677
+Note: Old Hashcode is HashType 1 | New Hashcode is HashType 2
 
-//Output 
+This assignment's objective is to implement and compare two hash tables, Separate Chaining and Linear Probing using two different hash functions. It also emphasizes evaluating the performance of hash tables by tracking key comparisons.
 
+### Output 
 ```
 Enter a strong password (at least 8 characters long):
 account8
